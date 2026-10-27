@@ -1,0 +1,30 @@
+[
+  {
+    "type_code": "INDIVIDUAL",
+    "type_name": "Individual / Natural Person",
+    "description": "Natural person retail or private banking customer",
+    "is_business_entity": false,
+    "min_ubo_threshold": 0.0
+  },
+  {
+    "type_code": "CORPORATE",
+    "type_name": "Corporation / Limited Liability Company",
+    "description": "Commercial corporate entity requiring UBO disclosure",
+    "is_business_entity": true,
+    "min_ubo_threshold": 0.25
+  },
+  {
+    "type_code": "TRUST",
+    "type_name": "Trust / Fiduciary Structure",
+    "description": "Fiduciary vehicle requiring trustee, settlor, and beneficiary registry",
+    "is_business_entity": true,
+    "min_ubo_threshold": 0.1
+  },
+  {
+    "type_code": "PARTNERSHIP",
+    "type_name": "General or Limited Partnership",
+    "description": "Commercial partnership requiring general and limited partner disclosure",
+    "is_business_entity": true,
+    "min_ubo_threshold": 0.25
+  }
+]

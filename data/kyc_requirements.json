@@ -1,0 +1,128 @@
+[
+  {
+    "requirement_id": "REQ-IND-001",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_tier": "ALL",
+    "document_category": "IDENTITY",
+    "document_type": "PASSPORT",
+    "is_mandatory": true,
+    "validity_period_days": 3650
+  },
+  {
+    "requirement_id": "REQ-IND-002",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_tier": "ALL",
+    "document_category": "ADDRESS_PROOF",
+    "document_type": "UTILITY_BILL",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-IND-003",
+    "customer_type_code": "INDIVIDUAL",
+    "risk_tier": "HIGH",
+    "document_category": "TAX_CERTIFICATE",
+    "document_type": "W9_W8BEN",
+    "is_mandatory": true,
+    "validity_period_days": 1095
+  },
+  {
+    "requirement_id": "REQ-CORP-001",
+    "customer_type_code": "CORPORATE",
+    "risk_tier": "ALL",
+    "document_category": "INCORPORATION",
+    "document_type": "CERTIFICATE_OF_INC",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-CORP-002",
+    "customer_type_code": "CORPORATE",
+    "risk_tier": "ALL",
+    "document_category": "ADDRESS_PROOF",
+    "document_type": "BANK_STATEMENT",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-CORP-003",
+    "customer_type_code": "CORPORATE",
+    "risk_tier": "ALL",
+    "document_category": "UBO_DECLARATION",
+    "document_type": "REGISTER_OF_DIRECTORS",
+    "is_mandatory": true,
+    "validity_period_days": 365
+  },
+  {
+    "requirement_id": "REQ-CORP-004",
+    "customer_type_code": "CORPORATE",
+    "risk_tier": "ALL",
+    "document_category": "TAX_CERTIFICATE",
+    "document_type": "W9_W8BEN",
+    "is_mandatory": true,
+    "validity_period_days": 1095
+  },
+  {
+    "requirement_id": "REQ-CORP-005",
+    "customer_type_code": "CORPORATE",
+    "risk_tier": "HIGH",
+    "document_category": "FINANCIAL_STATEMENT",
+    "document_type": "AUDITED_FINANCIALS",
+    "is_mandatory": true,
+    "validity_period_days": 365
+  },
+  {
+    "requirement_id": "REQ-TRST-001",
+    "customer_type_code": "TRUST",
+    "risk_tier": "ALL",
+    "document_category": "INCORPORATION",
+    "document_type": "TRUST_DEED",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-TRST-002",
+    "customer_type_code": "TRUST",
+    "risk_tier": "ALL",
+    "document_category": "ADDRESS_PROOF",
+    "document_type": "BANK_STATEMENT",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-TRST-003",
+    "customer_type_code": "TRUST",
+    "risk_tier": "ALL",
+    "document_category": "UBO_DECLARATION",
+    "document_type": "REGISTER_OF_BENEFICIARIES",
+    "is_mandatory": true,
+    "validity_period_days": 365
+  },
+  {
+    "requirement_id": "REQ-PRTN-001",
+    "customer_type_code": "PARTNERSHIP",
+    "risk_tier": "ALL",
+    "document_category": "INCORPORATION",
+    "document_type": "PARTNERSHIP_AGREEMENT",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-PRTN-002",
+    "customer_type_code": "PARTNERSHIP",
+    "risk_tier": "ALL",
+    "document_category": "ADDRESS_PROOF",
+    "document_type": "UTILITY_BILL",
+    "is_mandatory": true,
+    "validity_period_days": null
+  },
+  {
+    "requirement_id": "REQ-PRTN-003",
+    "customer_type_code": "PARTNERSHIP",
+    "risk_tier": "ALL",
+    "document_category": "UBO_DECLARATION",
+    "document_type": "REGISTER_OF_PARTNERS",
+    "is_mandatory": true,
+    "validity_period_days": 365
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "anomaly_id": "ANO-000001",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000063-003",
+    "secondary_entity_id": "CUS-000063",
+    "description": "Document DOC-CUS-000063-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000002",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000096-003",
+    "secondary_entity_id": "CUS-000096",
+    "description": "Document DOC-CUS-000096-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000003",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000146-003",
+    "secondary_entity_id": "CUS-000146",
+    "description": "Document DOC-CUS-000146-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000004",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000200-003",
+    "secondary_entity_id": "CUS-000200",
+    "description": "Document DOC-CUS-000200-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000005",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000256-003",
+    "secondary_entity_id": "CUS-000256",
+    "description": "Document DOC-CUS-000256-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000006",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000270-003",
+    "secondary_entity_id": "CUS-000270",
+    "description": "Document DOC-CUS-000270-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000007",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000311-003",
+    "secondary_entity_id": "CUS-000311",
+    "description": "Document DOC-CUS-000311-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000008",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000320-003",
+    "secondary_entity_id": "CUS-000320",
+    "description": "Document DOC-CUS-000320-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000009",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000414-003",
+    "secondary_entity_id": "CUS-000414",
+    "description": "Document DOC-CUS-000414-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000010",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000429-003",
+    "secondary_entity_id": "CUS-000429",
+    "description": "Document DOC-CUS-000429-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000011",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000463-003",
+    "secondary_entity_id": "CUS-000463",
+    "description": "Document DOC-CUS-000463-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000012",
+    "anomaly_type": "EXPIRED_DOC_MARKED_VALID",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-000485-003",
+    "secondary_entity_id": "CUS-000485",
+    "description": "Document DOC-CUS-000485-003 expired on 2025-05-10 but retains VERIFIED status.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_EXPIRY_INTEGRITY"
+  },
+  {
+    "anomaly_id": "ANO-000013",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000001",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000001 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000014",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000002",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000002 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000015",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000004",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000004 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000016",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000005",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000005 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000017",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000006",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000006 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000018",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000007",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000007 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000019",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000008",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000008 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000020",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000009",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000009 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000021",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000012",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000012 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000022",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000013",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000013 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000023",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000018",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000018 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000024",
+    "anomaly_type": "APPROVED_WITHOUT_MANDATORY_EVIDENCE",
+    "entity_type": "CUSTOMER",
+    "primary_entity_id": "CUS-000019",
+    "secondary_entity_id": null,
+    "description": "Customer CUS-000019 is marked APPROVED while missing mandatory verification evidence.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_ONBOARDING_COMPLETENESS_GATE"
+  },
+  {
+    "anomaly_id": "ANO-000025",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-000580",
+    "secondary_entity_id": "UBO-2026-000216",
+    "description": "Business customer CUS-000580 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000026",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-003046",
+    "secondary_entity_id": "UBO-2026-000985",
+    "description": "Business customer CUS-003046 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000027",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-006175",
+    "secondary_entity_id": "UBO-2026-001921",
+    "description": "Business customer CUS-006175 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000028",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-004323",
+    "secondary_entity_id": "UBO-2026-001327",
+    "description": "Business customer CUS-004323 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000029",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-002373",
+    "secondary_entity_id": "UBO-2026-000777",
+    "description": "Business customer CUS-002373 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000030",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-004936",
+    "secondary_entity_id": "UBO-2026-001556",
+    "description": "Business customer CUS-004936 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000031",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-000120",
+    "secondary_entity_id": "UBO-2026-000040",
+    "description": "Business customer CUS-000120 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000032",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-002168",
+    "secondary_entity_id": "UBO-2026-000710",
+    "description": "Business customer CUS-002168 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000033",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-006210",
+    "secondary_entity_id": "UBO-2026-001942",
+    "description": "Business customer CUS-006210 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000034",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-006465",
+    "secondary_entity_id": "UBO-2026-002019",
+    "description": "Business customer CUS-006465 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000035",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-000432",
+    "secondary_entity_id": "UBO-2026-000146",
+    "description": "Business customer CUS-000432 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000036",
+    "anomaly_type": "UBO_PERCENTAGE_EXCEEDS_100",
+    "entity_type": "BENEFICIAL_OWNER",
+    "primary_entity_id": "CUS-004095",
+    "secondary_entity_id": "UBO-2026-001256",
+    "description": "Business customer CUS-004095 total registered UBO ownership exceeds 100.0%.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_UBO_SUM_CONSTRAINT"
+  },
+  {
+    "anomaly_id": "ANO-000037",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000068-2026",
+    "secondary_entity_id": "CUS-000068",
+    "description": "Review case REV-CUS-000068-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000038",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000069-2026",
+    "secondary_entity_id": "CUS-000069",
+    "description": "Review case REV-CUS-000069-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000039",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000070-2026",
+    "secondary_entity_id": "CUS-000070",
+    "description": "Review case REV-CUS-000070-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000040",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000071-2026",
+    "secondary_entity_id": "CUS-000071",
+    "description": "Review case REV-CUS-000071-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000041",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000072-2026",
+    "secondary_entity_id": "CUS-000072",
+    "description": "Review case REV-CUS-000072-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000042",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000074-2026",
+    "secondary_entity_id": "CUS-000074",
+    "description": "Review case REV-CUS-000074-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000043",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000076-2026",
+    "secondary_entity_id": "CUS-000076",
+    "description": "Review case REV-CUS-000076-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000044",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000078-2026",
+    "secondary_entity_id": "CUS-000078",
+    "description": "Review case REV-CUS-000078-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000045",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000079-2026",
+    "secondary_entity_id": "CUS-000079",
+    "description": "Review case REV-CUS-000079-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000046",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000080-2026",
+    "secondary_entity_id": "CUS-000080",
+    "description": "Review case REV-CUS-000080-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000047",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000081-2026",
+    "secondary_entity_id": "CUS-000081",
+    "description": "Review case REV-CUS-000081-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000048",
+    "anomaly_type": "REVIEW_CLOSED_WITHOUT_RESOLUTION",
+    "entity_type": "REVIEW_CASE",
+    "primary_entity_id": "REV-CUS-000084-2026",
+    "secondary_entity_id": "CUS-000084",
+    "description": "Review case REV-CUS-000084-2026 was closed as CLOSED_WITHOUT_RESOLUTION without definitive disposition.",
+    "severity": "HIGH",
+    "expected_rule_violation": "RULE_REVIEW_OUTCOME_RESOLUTION"
+  },
+  {
+    "anomaly_id": "ANO-000049",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-008000-999",
+    "secondary_entity_id": "DOC-CUS-000003-001",
+    "description": "Document DOC-CUS-008000-999 reuses reference number 'PAS-000003-01' across distinct customers CUS-008000 and CUS-000003.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000050",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007999-999",
+    "secondary_entity_id": "DOC-CUS-000010-001",
+    "description": "Document DOC-CUS-007999-999 reuses reference number 'PAS-000010-01' across distinct customers CUS-007999 and CUS-000010.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000051",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007998-999",
+    "secondary_entity_id": "DOC-CUS-000011-001",
+    "description": "Document DOC-CUS-007998-999 reuses reference number 'PAS-000011-01' across distinct customers CUS-007998 and CUS-000011.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000052",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007997-999",
+    "secondary_entity_id": "DOC-CUS-000014-001",
+    "description": "Document DOC-CUS-007997-999 reuses reference number 'PAS-000014-01' across distinct customers CUS-007997 and CUS-000014.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000053",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007996-999",
+    "secondary_entity_id": "DOC-CUS-000015-001",
+    "description": "Document DOC-CUS-007996-999 reuses reference number 'PAS-000015-01' across distinct customers CUS-007996 and CUS-000015.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000054",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007995-999",
+    "secondary_entity_id": "DOC-CUS-000016-001",
+    "description": "Document DOC-CUS-007995-999 reuses reference number 'PAS-000016-01' across distinct customers CUS-007995 and CUS-000016.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000055",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007994-999",
+    "secondary_entity_id": "DOC-CUS-000017-001",
+    "description": "Document DOC-CUS-007994-999 reuses reference number 'PAS-000017-01' across distinct customers CUS-007994 and CUS-000017.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000056",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007992-999",
+    "secondary_entity_id": "DOC-CUS-000020-001",
+    "description": "Document DOC-CUS-007992-999 reuses reference number 'PAS-000020-01' across distinct customers CUS-007992 and CUS-000020.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000057",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007991-999",
+    "secondary_entity_id": "DOC-CUS-000021-001",
+    "description": "Document DOC-CUS-007991-999 reuses reference number 'PAS-000021-01' across distinct customers CUS-007991 and CUS-000021.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000058",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007990-999",
+    "secondary_entity_id": "DOC-CUS-000022-001",
+    "description": "Document DOC-CUS-007990-999 reuses reference number 'PAS-000022-01' across distinct customers CUS-007990 and CUS-000022.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000059",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007989-999",
+    "secondary_entity_id": "DOC-CUS-000023-001",
+    "description": "Document DOC-CUS-007989-999 reuses reference number 'PAS-000023-01' across distinct customers CUS-007989 and CUS-000023.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  },
+  {
+    "anomaly_id": "ANO-000060",
+    "anomaly_type": "DUPLICATE_DOCUMENT_CROSS_CUSTOMER",
+    "entity_type": "DOCUMENT",
+    "primary_entity_id": "DOC-CUS-007988-999",
+    "secondary_entity_id": "DOC-CUS-000025-001",
+    "description": "Document DOC-CUS-007988-999 reuses reference number 'PAS-000025-01' across distinct customers CUS-007988 and CUS-000025.",
+    "severity": "CRITICAL",
+    "expected_rule_violation": "RULE_DOC_GLOBAL_UNIQUENESS"
+  }
+]

@@ -1,0 +1,5 @@
+type_code,type_name,description,is_business_entity,min_ubo_threshold
+INDIVIDUAL,Individual / Natural Person,Natural person retail or private banking customer,False,0.0
+CORPORATE,Corporation / Limited Liability Company,Commercial corporate entity requiring UBO disclosure,True,0.25
+TRUST,Trust / Fiduciary Structure,"Fiduciary vehicle requiring trustee, settlor, and beneficiary registry",True,0.1
+PARTNERSHIP,General or Limited Partnership,Commercial partnership requiring general and limited partner disclosure,True,0.25
